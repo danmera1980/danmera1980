@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danmera1980&label=Profile%20views&color=0e75b6&style=flat" alt="danmera1980" /> </p>
 
-- 🔭 I’m currently working on [PemsionesYa](https://pensionesya.com)
+- 🔭 I’m currently working on [PensionesYa](https://pensionesya.com)
 
 - 🌱 I’m currently learning **Full stack development**
 
