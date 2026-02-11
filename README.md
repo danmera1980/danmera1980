@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danmera1980&label=Profile%20views&color=0e75b6&style=flat" alt="danmera1980" /> </p>
 
-- 🔭 I’m currently working on [Sport Field Reservations Platform](https://github.com/danmera1980/PF-Reserva-Canchas)
+- 🔭 I’m currently working on [PemsionesYa](https://pensionesya.com)
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 All of my projects are available at [http://danmera.com](http://danmera.com)
-
 - 💬 Ask me about **react, node**
 
-- 📫 How to reach me **danmera1980@gmail.com**
+- 📫 How to reach me **danmera80@gmail.com**
 
-- 📄 Know about my experiences [http://danmera.com](http://danmera.com)
+- 📄 Know about my experiences [http://jadtechlabs.com](http://jadtechlabs.com)
 
 - ⚡ Fun fact **I love anime and ethical hacking**
 
