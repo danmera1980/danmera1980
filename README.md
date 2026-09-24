@@ -1,29 +1,65 @@
-<h1 align="center">Hi 👋, I'm Daniel Mera</h1>
-<h3 align="center">A passionate full stack developer from Ecuador</h3>
+# Daniel Mera
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danmera1980&label=Profile%20views&color=0e75b6&style=flat" alt="danmera1980" /> </p>
+**I take over Node.js backends that someone else built and left behind.**
 
-- 🔭 I’m currently working on [PensionesYa](https://pensionesya.com)
+Undocumented system nobody dares deploy → stable, documented and deployable in 21 days.
+Fixed price, published on the site. Based in Ambato, Ecuador — UTC−5, the same working day as New York.
 
-- 🌱 I’m currently learning **Full stack development**
+[**rescue.jadtechlabs.com**](https://rescue.jadtechlabs.com) · [security.jadtechlabs.com](https://security.jadtechlabs.com) · [daniel@jadtechlabs.com](mailto:daniel@jadtechlabs.com)
 
-- 💬 Ask me about **react, node**
+---
 
-- 📫 How to reach me **danmera80@gmail.com**
+### What I do
 
-- 📄 Know about my experiences [http://jadtechlabs.com](http://jadtechlabs.com)
+**Backend rescue** — You inherited a Node.js or NestJS system and nobody understands it. The developer left, the agency ended, or it shipped fast with an AI assistant and now nothing is safe to change. I map it, stabilise it, cover the core flows with tests, document it, and hand it back. Diagnostic from $1,800, full rescue $6,500.
 
-- ⚡ Fun fact **I love anime and ethical hacking**
+**Application security** — Secure code review for Node and TypeScript, dependency and supply-chain audits, security questionnaires that are holding up an enterprise deal, and SOC 2 readiness. Most reviews stop at the login page; I read the repository. From $1,500.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/danmera1980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danmera1980" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danmera-80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danmera-80" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Selected work
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danmera1980&show_icons=true&locale=en&layout=compact" alt="danmera1980" /></p>
+**[Jade](https://tujade.com)** — Multi-tenant ERP for small and mid-size businesses, with double-entry accounting as the system of record. Sole architect and developer.
+`NestJS` `Prisma` `PostgreSQL 16` `React` `TypeScript` `Docker`
+20 tenants in production on a single 4 vCPU VPS · ~140k lines of TypeScript, 141 data models, 50+ backend modules · schema-per-tenant isolation with subdomain routing · ~100 Jest and Playwright suites behind an automated QA gate · ADR-driven architecture records
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danmera1980&show_icons=true&locale=en" alt="danmera1980" /></p>
+**[canchaYa](https://micanchaya.com)** — Tournament management and ticketing platform with a paying client running live competitions. Sole architect and developer.
+`React` `TypeScript` `Node.js` `PostgreSQL` `Kotlin` `Jetpack Compose`
+Multi-tenant with a public fan portal · QR ticketing and revenue dashboards · offline-first Android point of sale with idempotent server-side deduplication · TOTP two-factor, CSRF protection, full ES/EN
+
+**Integrated medical platform** — Senior Node developer, 2023 to present.
+Architected a platform consolidating CRM, records, scheduling and multi-branch operations: 600+ internal users, 1,000 prospects a day. Built the Apache Kafka pipelines carrying 5,000+ events daily. Led the migration from monolith to microservices. Established the CI/CD pipeline and OpenAPI documentation. Mentors three developers.
+
+---
+
+### Background
+
+12+ years across software engineering, IT security and technical education. Delivered remotely for teams in the United States, United Kingdom, Mexico, Argentina and El Salvador — working across a border is the normal condition of my work, not an experiment.
+
+- **MS, Digital Forensics and Cybersecurity** — CUNY John Jay College, New York
+- **BA, Computer Science** — Universidad Tecnológica Indoamérica
+- Former IT security specialist (UK, remote) — automated server and workstation monitoring in Python, Bash and PowerShell; incident triage across global teams
+- Active on HackTheBox and TryHackMe, and in CTF competitions
+- English C1 · Spanish native
+
+---
+
+### Stack
+
+**Languages** TypeScript · JavaScript · Python · Kotlin · SQL · Bash
+**Backend** Node.js · NestJS · Express · REST · Prisma · Sequelize
+**Architecture** Microservices · event-driven systems · Apache Kafka · multi-tenant SaaS
+**Frontend** React · Redux Toolkit · TanStack Query · Tailwind · Material UI
+**Data** PostgreSQL · MySQL · MariaDB · MongoDB · SQL Server
+**Platform** Docker · Nginx · CI/CD · Linux VPS operations · n8n
+**Testing** Jest · Playwright · Swagger/OpenAPI
+
+---
+
+### Writing
+
+- [How I map an inherited Node backend in 48 hours](https://rescue.jadtechlabs.com)
+
+---
+
+<sub>[Website](https://jadtechlabs.com) · [LinkedIn](https://linkedin.com/in/danmera-80) · [Book 20 minutes](https://cal.com/danmera)</sub>
